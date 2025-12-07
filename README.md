@@ -38,8 +38,6 @@ Pastikan Python sudah terinstall:
 ```bash
 python --version
 
-Install library:
-
 python -m pip install mediapipe opencv-python
 ```
 
@@ -49,7 +47,9 @@ python -m pip install mediapipe opencv-python
 
 Masuk ke folder project lalu jalankan:
 
+```bash
 python hand_gesture.py
+```
 
 Program akan:
 
@@ -63,7 +63,7 @@ Menampilkan jumlah jari & nama gestur
 
 Tekan Q atau ESC untuk keluar
 
---
+---
 
 ## 📌 Teknologi
 
