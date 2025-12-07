@@ -89,7 +89,7 @@ Proyek ini dibuat untuk keperluan pembelajaran dan bebas digunakan.
 
 ---
 
-## Aggota Kelompok 3
+## Anggota Kelompok 3
 
 - Muhammad Rafif Nuha Daniswara / 5324600006
 - Sulistyawati Adi Putri / 5324600008
