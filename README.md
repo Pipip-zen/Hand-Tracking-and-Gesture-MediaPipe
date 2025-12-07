@@ -86,3 +86,13 @@ Gunakan pencahayaan yang cukup agar deteksi lebih akurat
 ## 📜 Lisensi
 
 Proyek ini dibuat untuk keperluan pembelajaran dan bebas digunakan.
+
+---
+
+## Aggota Kelompok 3
+
+- Muhammad Rafif Nuha Daniswara / 5324600006
+- Sulistyawati Adi Putri / 5324600008
+- Arya Bagus Permono / 5324600017
+- Andy Fajri Danio / 5324600027
+- ⁠Ariq Rifky Ghiffari / 5324600028
